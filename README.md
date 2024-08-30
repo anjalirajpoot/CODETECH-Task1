@@ -8,3 +8,8 @@
 
 ## Overview of the Project
 ### Project: Ecommerce Website
+
+### Objective
+The objective of this project is to develop a comprehensive e-commerce website or mobile application that
+enables users to browse products, add items to a shopping cart, and complete
+purchases.
